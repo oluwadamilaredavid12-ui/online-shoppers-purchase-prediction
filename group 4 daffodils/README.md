@@ -108,7 +108,7 @@ online-shoppers-purchase-prediction/
 
 **1. Clone the repository**
 ```bash
-git clone 
+git clone git clone https://github.com/oluwadamilaredavid12-ui/online-shoppers-purchase-prediction.git
 ```
 
 **2. Install dependencies**
