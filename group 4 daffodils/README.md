@@ -158,6 +158,14 @@ pip install -r requirements.txt
 ---
 
 ## 👥 Authors
+Names of Active Members & Respective Reg. Numbers
+1. Emmanuel Frimpong (DS/2025/TC5/212)
+2. ⁠Owodolu Fikun Ayomi (DS/2025/TC5/043)
+3. Maxwel Wisdom (DS/2025/TC5/098)
+4. Umoh Daniel Success (DS/2025/TC5/192)
+5. Zurakat Ibukun.   (DS/2025/TC5/006)
+6. Oyeyode David (DS/2025/TC5/114)
+7. ⁠Ikhimiukor Godwin James (DS/2025/TC5/088)
 
 **Group 4 — Team Daffodils 🌼**
 
