@@ -1,2 +1,2 @@
 ## Contributions
-- Fikunayomi: Contributed to data visualization and documented project insights through a Medium article.
+- Fikunayomi: Contributed to data visualization, handled the statistics and documented project insights through a Medium article.
